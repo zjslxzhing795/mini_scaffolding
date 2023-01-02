@@ -1,0 +1,12 @@
+{
+  "name": "sample-scaffolding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "cli.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "ejs": "^3.1.8",
+    "inquirer": "^8.0.0"
+  }
+}
